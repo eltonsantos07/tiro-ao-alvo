@@ -1,0 +1,59 @@
+body,
+html {
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: sans-serif;
+}
+
+h1 {
+	color: red;
+	text-align: center;
+	font-family: monospace;
+	font-size: 35px;
+}
+
+a {
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+a input:hover {
+	color: white;
+	background-color: black;
+}
+
+.flex-container-btn {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	row-gap: 10px;
+	justify-content: center;
+	align-items: baseline;
+}
+
+.flex-container-txt {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.border {
+	border-width: 10px;
+	border-style: solid;
+	border-color: black;
+	padding: 0;
+}
+
+.destaque {
+	font-family: monospace;
+	font-size: x-large;
+}
+
+.btn-home {
+	margin-bottom: 50px;
+}
