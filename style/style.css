@@ -6,7 +6,6 @@ html {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	font-family: sans-serif;
 }
 
 h1 {
@@ -21,7 +20,7 @@ a {
 	margin-left: 20px;
 }
 
-a input:hover {
+a button:hover {
 	color: white;
 	background-color: black;
 }
