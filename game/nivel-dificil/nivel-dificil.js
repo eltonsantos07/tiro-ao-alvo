@@ -30,7 +30,7 @@ function atualizaTela() {
 	desenhaALvo(xAleatorio, yAleatorio);
 }
 
-setInterval(atualizaTela, 600);
+setInterval(atualizaTela, 700);
 
 function dispara(evento) {
 

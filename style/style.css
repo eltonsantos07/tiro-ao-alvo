@@ -34,11 +34,8 @@ a button:hover {
 	align-items: baseline;
 }
 
-.flex-container-txt {
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
+.center-txt {
+	text-align: center;
 }
 
 .border {
